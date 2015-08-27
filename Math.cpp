@@ -11,6 +11,9 @@ int main()
   
   cout<<"You had me at Hello World!!";
   
+  cout<<"A is"<<a;
+  cout<<"B is"<<b;
+  
   cout<<"The addition is: "<<a+b;
   
   cout<<"The subtraction is: "<<a-b;
