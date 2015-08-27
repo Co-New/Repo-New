@@ -19,5 +19,7 @@ int main()
   
   cout<<"The square root of 20 is: "<<sqrt(a);
   
+  cout<<"The result of a raised to b is: "<<pow(a,b);
+  
   return 0;
 }
