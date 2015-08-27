@@ -9,6 +9,8 @@ int main()
 
   int a=20, b=2, c;
   
+  cout<<"You had me at Hello World!!";
+  
   cout<<"The addition is: "<<a+b;
   
   cout<<"The subtraction is: "<<a-b;
